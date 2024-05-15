@@ -19,7 +19,7 @@ This application is a basic calculator program that performs fundamental arithme
 
 
 
-# Turkish Translate of Calculator
+# Turkish Translate of Calculator Aplication
 
 Bu uygulama, temel hesaplama işlemlerini gerçekleştiren bir hesap makinesi programıdır. Aşağıda uygulamanın tuş işlevleri ve klavye kısayolları açıklanmıştır.
 
