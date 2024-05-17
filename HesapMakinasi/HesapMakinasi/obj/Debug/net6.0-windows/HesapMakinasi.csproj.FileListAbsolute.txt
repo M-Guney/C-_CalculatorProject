@@ -1,0 +1,16 @@
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\bin\Debug\net6.0-windows\HesapMakinasi.exe
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\bin\Debug\net6.0-windows\HesapMakinasi.deps.json
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\bin\Debug\net6.0-windows\HesapMakinasi.runtimeconfig.json
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\bin\Debug\net6.0-windows\HesapMakinasi.dll
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\bin\Debug\net6.0-windows\HesapMakinasi.pdb
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.Form1.resources
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.csproj.GenerateResource.cache
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.AssemblyInfoInputs.cache
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.AssemblyInfo.cs
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.csproj.CoreCompileInputs.cache
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.dll
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\refint\HesapMakinasi.dll
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.pdb
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\HesapMakinasi.genruntimeconfig.cache
+C:\Users\msule\source\repos\HesapMakinasi\HesapMakinasi\obj\Debug\net6.0-windows\ref\HesapMakinasi.dll

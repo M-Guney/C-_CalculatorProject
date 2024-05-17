@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xc8bOGEvsMf2/P/N+6HqGKCZM0PL/qSTbcogh9LEI2/Vu2sPlSm9g62u1ygDNLZmI+Rd0D84VamHD5ntmm/qfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msule\\source\\repos\\HesapMakinasi\\HesapMakinasi\\HesapMakinasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msule\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\msule\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\msule\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\msule\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
