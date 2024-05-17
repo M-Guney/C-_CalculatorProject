@@ -8,6 +8,7 @@ This application is a basic calculator program that performs fundamental arithme
   - `+`, `-`, `*`, `/`: Specifies the arithmetic operations.
   - `Enter`: Completes the calculation and displays the result.
   - `,`: The decimal point key on the Numpad, adds a decimal value.
+  - `Esc`: Deletes all values and clears the textbox.
 
 ## Buttons:
 - **C**: Clears all variables and the textbox.
